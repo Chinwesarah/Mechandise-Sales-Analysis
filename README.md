@@ -1,7 +1,7 @@
 # Mechandise-Sales-Analysis
 This Power BI report analyses merchandise sales performance across three key areas: Sales Analysis, Product Analysis, and Customer Analysis.
 
-# Added Features:
+# Dataset Cleaning/Modification:
 1. A new column, ‘Country,’ was introduced to group cities, simplifying regional analysis.
 2. Ratings were grouped into three categories: 1 and 2 as low, 3 as average, and 4 and 5 as high.
 3. Customer ages were divided into two distinct age groups.
