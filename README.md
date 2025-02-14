@@ -8,7 +8,7 @@ This Power BI report analyses merchandise sales performance across three key are
 
 These aggregations streamline the data, making trends and insights easier to understand without adding complexity. 
 
-# Kindly interact here https://lnkd.in/e84yK4v2
+Kindly interact here https://lnkd.in/e84yK4v2
 
 # Key Insights:
 1. Net sales (excluding shipping cost) increased by 57.5% in the first quarter of 2024 compared to the last quarter of 2023. However, this was followed by a sharp decline by 62.1% at the end of the last quarter of 2024.
